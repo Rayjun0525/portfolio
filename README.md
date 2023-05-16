@@ -29,6 +29,19 @@ IT라는 새로운 환경에 적응하기위해 밤잠을 줄여가며 노력했
 언젠가는 제 이름을 자주 들어서 알게되실 그날을 위해 열심히 노력할게요!
 ```
 
+## What can I do
+```
+PostgreSQL DBMS Engineering
+- PostgreSQL 설치 (9.6.9 ~ 15.3버전/다중화 고가용구성/DR서버/백업구성/파라미터 튜닝)
+- PostgreSQL extension 테스트 및 도입검토
+- PostgreSQL Installer 제작 및 유지관리
+- Migration (PG -> PG, 이기종(Oracle, DB2) -> PG)
+- SQL Porting (Oracle -> ANSI)
+- Troubleshooting (고객사 장애상황 조치 및 가이드)
+- 개발자, 운영자 교육 진행 (PG architecture, 주의사항 등)
+- K8S기반 PG서버 솔루션 개발
+```
+
 ## 기술
 종류|기술|숙련도
 -|-|-
