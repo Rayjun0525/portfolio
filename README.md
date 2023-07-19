@@ -12,7 +12,7 @@
 -|-
 이름|김명준
 직업|Database Engineer (PostgreSQL)
-직급|책임매니저 (경력 2년)
+직급|책임매니저
 
 ## 기술
 ```
